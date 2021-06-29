@@ -4,7 +4,9 @@ import './Checkout.css';
 function checkout() {
     return (
         <div>
-            
+            <h>This is checkout page.
+                (Testing git)
+            </h>
         </div>
     )
 }
